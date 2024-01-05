@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="National TV" tvg-logo="https://static.mncnow.id/images/channel/88d6f245/d9c5_r32.jpg",MNCTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
+#EXTVLCOPT:http-referrer=https://visionplus.id
